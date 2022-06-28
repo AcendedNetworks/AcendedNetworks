@@ -1,2 +1,2 @@
-# AcendedNetworks
-Github Landing Page For Acended Networks
+# AscendedNetworks
+Github Landing Page For Ascended Networks
